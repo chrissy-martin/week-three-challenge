@@ -33,13 +33,12 @@ function generatePassword() {
     randomPassword += charTypes.number;
   };
   var password = "";
+
   for (let i = 0; i < length; i++) {
     password += randomPassword[Math.floor(Math.random() * randomPassword.length)]
   }
   return password;
 }
-
-console.log(generatePassword());
 
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
