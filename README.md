@@ -9,6 +9,8 @@ This is the week 3 challenge in the UW Bootcamp: Password Generator. The goal fo
 
 To use this application, simlpy click on the "Generate Password" button and follow the prompts given at the top of the screen. See the following screenshots for a quick walk-through.
 
+The deployed application can be found here: https://chrissy-martin.github.io/week-three-challenge/
+
 These first two screenshots are the code that I added to the starter code for the project. 
 ![alt text](screenshots/screenshot_1.png)
 ![alt text](screenshots/screenshot_2.png)
