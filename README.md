@@ -12,21 +12,21 @@ To use this application, simlpy click on the "Generate Password" button and foll
 The deployed application can be found here: https://chrissy-martin.github.io/week-three-challenge/
 
 These first two screenshots are the code that I added to the starter code for the project. 
-![alt text](screenshots/screenshot_1.png)
-![alt text](screenshots/screenshot_2.png)
+![alt text](assets/screenshots/screenshot_1.png)
+![alt text](assets/screenshots/screenshot_2.png)
 
 The following screenshots walk you through how to use the application:
 Upon opening the application, you ahould be greeted with a prompt to enter a number betwwen 8-128. (If you do not see this prompt immediately, simply start by clicking the generate password button).
-![alt text](screenshots/screenshot_3.png)
+![alt text](assets/screenshots/screenshot_3.png)
 
 Enter a number of your choice between 8-128.
-![alt text](screenshots/screenshot_4.png)
+![alt text](assets/screenshots/screenshot_4.png)
 
 The remaining prompts are a yes/no question. Click ok for "yes" and cancel for "no" for desired password criteria. 
-![alt text](screenshots/screenshot_5.png)
-![alt text](screenshots/screenshot_6.png)
-![alt text](screenshots/screenshot_7.png)
-![alt text](screenshots/screenshot_8.png)
+![alt text](assets/screenshots/screenshot_5.png)
+![alt text](assets/screenshots/screenshot_6.png)
+![alt text](assets/screenshots/screenshot_7.png)
+![alt text](assets/screenshots/screenshot_8.png)
 
 The end result will be a password that fits the criteria that you have chosen using the prompts.
 ![alt text](screenshots/screenshot_9.png)
