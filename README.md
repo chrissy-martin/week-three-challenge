@@ -29,7 +29,7 @@ The remaining prompts are a yes/no question. Click ok for "yes" and cancel for "
 ![alt text](assets/screenshots/screenshot_8.png)
 
 The end result will be a password that fits the criteria that you have chosen using the prompts.
-![alt text](screenshots/screenshot_9.png)
+![alt text](assets/screenshots/screenshot_9.png)
 
 
 
